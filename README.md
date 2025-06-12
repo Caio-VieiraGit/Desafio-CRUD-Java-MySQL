@@ -1,6 +1,6 @@
-# Desafio-CRUD-Java-MySQL
+# Desafio CRUD Java MySQL
 
-# 🛕 Sistema de Gerenciamento de Templos e Santuários – Cavaleiros do Zodíaco: Eliseos
+## 🛕 Sistema de Gerenciamento de Templos e Santuários – Cavaleiros do Zodíaco: Eliseos
 
 Projeto desenvolvido como parte do curso **Técnico em Desenvolvimento de Sistemas – SENAI**, com o objetivo de construir um sistema CRUD completo em Java com banco de dados MySQL hospedado na plataforma Aiven.
 
