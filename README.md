@@ -21,7 +21,7 @@ Sistema responsável por registrar e gerenciar informações dos templos sagrado
 - MySQL (Aiven)
 - MySQL Workbench
 - Git e GitHub
-- IDE: (Preencha com a IDE que usaram, ex: IntelliJ, Eclipse, VS Code)
+- IDE: IntelliJ
 
 ---
 
