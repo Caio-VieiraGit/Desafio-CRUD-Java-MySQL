@@ -36,7 +36,6 @@ Sistema responsável por registrar e gerenciar informações dos templos sagrado
 - `Artefatos`
 - `Historicos_Templo`
 
-Scripts SQL de criação e dados estão disponíveis na pasta `/sql`.
 
 ---
 
@@ -51,3 +50,14 @@ Scripts SQL de criação e dados estão disponíveis na pasta `/sql`.
 ---
 
 ## 📂 Estrutura do Projeto Java
+
+---
+
+## 📄 Licença
+Uso didático – projeto acadêmico.
+
+---
+
+## 🙏 Agradecimentos
+Agradecimentos ao SENAI e ao educador Marcio Oliveira da Silva Costa pelo desafio proposto.
+
