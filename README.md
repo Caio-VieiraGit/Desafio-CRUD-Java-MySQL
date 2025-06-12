@@ -50,9 +50,9 @@ Sistema responsável por registrar e gerenciar informações dos templos sagrado
 
 ## 📂 Estrutura do Projeto Java
 
-# Pasta principal do projeto: `cdz-eliseos-templos-santuarios`
+ Pasta principal do projeto: `cdz-eliseos-templos-santuarios`
 
-# Principais pacotes e arquivos implementados:
+### Principais pacotes e arquivos implementados:
 
 src/controller/ – Lógica de controle:
 
