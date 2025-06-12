@@ -49,47 +49,54 @@ Sistema responsável por registrar e gerenciar informações dos templos sagrado
 ---
 
 ## 📂 Estrutura do Projeto Java
-cdz-eliseos-templos-santuarios/
-├── src/
-│ ├── controller/
-│ │ ├── TemploController.java
-│ │ ├── GuardiaoController.java
-│ │ ├── ArtefatoController.java
-│ │ ├── OrdemController.java
-│ │ └── HistoricoTemploController.java
-│ │
-│ ├── dao/
-│ │ ├── TemploDAO.java
-│ │ ├── GuardiaoDAO.java
-│ │ ├── ArtefatoDAO.java
-│ │ ├── OrdemDAO.java
-│ │ └── HistoricoTemploDAO.java
-│ │
-│ ├── model/
-│ │ ├── Templo.java
-│ │ ├── Guardiao.java
-│ │ ├── Artefato.java
-│ │ ├── Ordem.java
-│ │ └── HistoricoTemplo.java
-│ │
-│ ├── util/
-│ │ └── ConnectionFactory.java
-│ │
-│ └── view/
-│ ├── MenuPrincipal.java
-│ ├── MenuTemplo.java
-│ ├── MenuGuardiao.java
-│ ├── MenuArtefato.java
-│ ├── MenuOrdem.java
-│ └── MenuHistoricoTemplo.java
-│
-├── sql/
-│ ├── create_database.sql
-│ └── insert_test_data.sql
-│
-├── README.md
-├── .gitignore
-└── cdz-eliseos-templos-santuarios.zip
+
+# Pasta principal do projeto: `cdz-eliseos-templos-santuarios`
+
+# Principais pacotes e arquivos implementados:
+
+src/controller/ – Lógica de controle:
+
+- TemploController.java
+- GuardiaoController.java
+- ArtefatoController.java
+- OrdemController.java
+- HistoricoTemploController.java
+
+src/dao/ – Acesso ao banco de dados (DAO):
+
+- TemploDAO.java
+- GuardiaoDAO.java
+- ArtefatoDAO.java
+- OrdemDAO.java
+- HistoricoTemploDAO.java
+
+src/model/ – Classes de modelo (entidades):
+
+- Templo.java
+- Guardiao.java
+- Artefato.java
+- Ordem.java
+- HistoricoTemplo.java
+
+src/util/ – Utilitários:
+
+- ConnectionFactory.java
+  
+src/view/ – Interface de linha de comando (menus):
+
+- MenuPrincipal.java
+- MenuTemplo.java
+- MenuGuardiao.java
+- MenuArtefato.java
+- MenuOrdem.java
+- MenuHistoricoTemplo.java
+
+sql/ – Scripts SQL:
+
+- create_database.sql
+- insert_test_data.sql
+
+
 ---
 
 ## 📄 Licença
